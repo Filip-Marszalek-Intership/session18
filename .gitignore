@@ -1,0 +1,4 @@
+*/bicep/template.json
+.terraform*
+terraform.tfstate
+terraform.tf
